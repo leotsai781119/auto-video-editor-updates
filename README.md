@@ -1,6 +1,9 @@
 # Auto Video Editor Updates
 
-自動短影音剪輯器的版本更新儲存庫。程式會從這裡讀取最新版本資訊並下載更新檔。
+AEV_VERSION=3.4.0
+AEV_PATCH_URL=
+AEV_PATCH_SHA256=
+AEV_NOTES=Fixed installer and automatic update support.
 
-- 影片只在使用者自己的電腦處理。
-- 此儲存庫不會儲存使用者影片、API Key 或個人資料。
+This repository provides update metadata for Auto Video Editor.
+User videos, API keys, and personal files are never uploaded here.
