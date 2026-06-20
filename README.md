@@ -1,9 +1,9 @@
 # Auto Video Editor Updates
 
-AEV_VERSION=3.5.4
-AEV_PATCH_URL=https://raw.githubusercontent.com/leotsai781119/auto-video-editor-updates/main/patches/aev_patch_v3_5_4.py
-AEV_PATCH_SHA256=37957c1ad6bbd18c916f82d7985115a17145e9810c4e4770a9ea52346a7e6684
-AEV_NOTES=Recreates the desktop shortcut so the editor starts through wscript in the background with no persistent console window.
+AEV_VERSION=3.6.1
+AEV_PATCH_URL=https://raw.githubusercontent.com/leotsai781119/auto-video-editor-updates/main/patches/aev_patch_v3_6_1.py
+AEV_PATCH_SHA256=3139f5715ae91805b3eb1ca72799917fee0a14a2e34644f252c51cfe70fc8ab1
+AEV_NOTES=Hide FFmpeg, ffprobe, and other child-process console windows during editing and subtitle processing.
 
 This repository provides update metadata for Auto Video Editor.
 User videos, API keys, and personal files are never uploaded here.
